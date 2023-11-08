@@ -7,3 +7,5 @@ pull test
 
 pull conflict test
 pull test two
+
+added change to local branch
